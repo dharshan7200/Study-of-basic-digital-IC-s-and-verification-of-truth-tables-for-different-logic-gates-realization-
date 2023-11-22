@@ -7,7 +7,6 @@ Software – Quartus prime
 Theory
 Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
-
 AND gate
 OR gate
 NOT gate
@@ -17,37 +16,30 @@ Ex-OR gate
 Ex-NOR gate
 1) AND gate
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
-
 Y= A.B
 
 2) OR gate
 The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation.
-
 Y= A+B
 
 3) NOT gate
 The NOT gate is an electronic circuit that produces an inverted version of the input at its output. It is also known as an inverter. If the input variable is A, the inverted output is known as NOT A. This is also shown as A' or A with a bar over the top, as shown at the outputs.
-
 Y= A'
 
 4) NAND gate
 This is a NOT-AND gate which is equal to an AND gate followed by a NOT gate. The outputs of all NAND gates are high if any of the inputs are low. The symbol is an AND gate with a small circle on the output. The small circle represents inversion.
-
 Y= (AB)’
 
 5) NOR gate
 This is a NOT-OR gate which is equal to an OR gate followed by a NOT gate. The outputs of all NOR gates are low if any of the inputs are high. The symbol is an OR gate with a small circle on the output. The small circle represents inversion.
-
 Y= (A+B)’
 
 6) Ex-OR gate
 The 'Exclusive-OR' gate is a circuit which will give a high output if either, but not both of its two inputs are high. An encircled plus sign (⊕) is used to show the Ex-OR operation.
-
 Y= A⊕B
 
 7) Ex-NOR gate
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
-
 Y= A⊕B
 
 # Procedure:
@@ -61,6 +53,8 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: DHARSHAN D
 RegisterNumber:  23001663
+![all gate code](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/917b80cf-5080-4704-b5fc-71e5e46a4b43)
+
 */
 # Logic symbol & Truthtable:
 ![WhatsApp Image 2023-11-22 at 8 48 54 PM](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/b2b4db95-8d91-4bd9-bdd7-ff5feff5dc43)

@@ -1,7 +1,6 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
-
 Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
@@ -60,13 +59,16 @@ Check all the gates following the same procedure.
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: DHARSHAN D
+RegisterNumber:  23001663
 */
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+# Logic symbol & Truthtable:
+![WhatsApp Image 2023-11-22 at 8 48 54 PM](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/b2b4db95-8d91-4bd9-bdd7-ff5feff5dc43)
+# RTL realization:
+![all logic gate](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/fac43fc0-7453-4afd-83ca-8d04abf3c1de)
 
-Result:
+# Output:
+![waveform](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/8dbdcedc-ce5e-4f32-a50f-d7dba975b501)
+
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.

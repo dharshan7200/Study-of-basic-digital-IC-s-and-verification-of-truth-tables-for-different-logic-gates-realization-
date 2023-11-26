@@ -61,7 +61,7 @@ RegisterNumber:  23001663
 ![all logic gate](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/fac43fc0-7453-4afd-83ca-8d04abf3c1de)
 
 # Output:
-![waveform](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/8dbdcedc-ce5e-4f32-a50f-d7dba975b501)
+![image](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/ff2c9e7a-e76b-4f3c-b09c-a0ae9d7f1af1)
 
 # Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.

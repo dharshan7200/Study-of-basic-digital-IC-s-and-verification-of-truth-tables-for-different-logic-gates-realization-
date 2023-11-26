@@ -56,7 +56,8 @@ Developed by: DHARSHAN D
 RegisterNumber:  23001663
 ![all gate code sir](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/008680c6-5448-4b34-b6b3-d29d0d233833)
 # Logic symbol & Truthtable:
-![WhatsApp Image 2023-11-22 at 8 48 54 PM](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/b2b4db95-8d91-4bd9-bdd7-ff5feff5dc43)
+![Screenshot 2023-11-26 095451](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/9ce708f1-41d6-4935-8d16-3800fb7cf745)
+
 # RTL realization:
 ![image](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/4114f186-e9d1-4b97-bb78-a897b1524a95)
 

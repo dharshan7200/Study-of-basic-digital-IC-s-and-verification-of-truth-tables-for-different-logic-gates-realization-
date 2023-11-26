@@ -58,7 +58,7 @@ RegisterNumber:  23001663
 # Logic symbol & Truthtable:
 ![WhatsApp Image 2023-11-22 at 8 48 54 PM](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/b2b4db95-8d91-4bd9-bdd7-ff5feff5dc43)
 # RTL realization:
-![all logic gate](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/fac43fc0-7453-4afd-83ca-8d04abf3c1de)
+![image](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/4114f186-e9d1-4b97-bb78-a897b1524a95)
 
 # Output:
 ![image](https://github.com/dharshan7200/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138850116/ff2c9e7a-e76b-4f3c-b09c-a0ae9d7f1af1)
